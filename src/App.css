@@ -1,11 +1,14 @@
 body {
     font-family: "Hind", sans-serif;
     line-height: normal;
-    box-sizing: border-box;
     padding: 20px 80px;
 }
 
 a {
     color: black;
     text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
 }
